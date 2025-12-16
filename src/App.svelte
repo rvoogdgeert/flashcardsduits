@@ -1,7 +1,7 @@
 <script lang="ts">
     import FlashCard from "./lib/FlashCard.svelte";
 
-    // Define flash cards data structure.
+    // Define flash cards data structure
     const flashCards = [
         // Kapitel 2
         // Lektion 1
