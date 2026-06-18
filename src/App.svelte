@@ -262,7 +262,7 @@
         //{ id: 264, question: "met elkaar overweg kunnen", answer: "sich verstehen" },
 
         // Kaptiel 4
-         Lektion 6
+        // Lektion 6
         { id: 265, question: "der Becher Joghurt", answer: "de beker yoghurt" },
         { id: 266, question: "das Brot", answer: "het brood" },
         { id: 267, question: "das Brötchen", answer: "het broodje" },
