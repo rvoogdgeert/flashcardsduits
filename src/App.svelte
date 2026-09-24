@@ -437,12 +437,12 @@
         { id: 425, question: "der Sonntag", answer: "zondag" },
         { id: 426, question: "das Wochenende", answer: "het weekeinde" },
         // Die Tageszeiten
-        { id: 427, question: "morgens / am Morgen", answer: "van 6 tot 9 uur 's ochtends" },
-        { id: 428, question: "vormittags / am Vormittag", answer: "van 9 tot 12 uur 's ochtends" },
-        { id: 429, question: "mittags / am Mittag", answer: "van 12 tot 13 uur 's middags" },
-        { id: 430, question: "nachmittags / am Nachmittag", answer: "van 13 tot 18 uur 's middags" },
-        { id: 431, question: "abends / am Abend", answer: "van 18 tot 24 uur 's avonds" },
-        { id: 432, question: "nachts / in der Nacht", answer: "van 0 tot 6 uur 's nachts" },
+        { id: 427, question: "morgens / am Morgen", answer: "van 6 tot 9" },
+        { id: 428, question: "vormittags / am Vormittag", answer: "van 9 tot 12" },
+        { id: 429, question: "mittags / am Mittag", answer: "van 12 tot 13" },
+        { id: 430, question: "nachmittags / am Nachmittag", answer: "van 13 tot 18 uur" },
+        { id: 431, question: "abends / am Abend", answer: "van 18 tot 24 uur" },
+        { id: 432, question: "nachts / in der Nacht", answer: "van 0 tot 6 uur" },
         //// Lektion 2
         //{ id: 433, question: "der Austausch | die Austausche", answer: "de uitwisseling" },
         //{ id: 434, question: "brauchen", answer: "nodig hebben" },
